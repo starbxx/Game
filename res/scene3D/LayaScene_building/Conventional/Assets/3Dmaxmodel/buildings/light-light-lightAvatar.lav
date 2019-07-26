@@ -1,0 +1,25 @@
+{
+	"version":"LAYAAVATAR:01",
+	"rootNode":{
+		"props":{
+			"name":"light",
+			"translate":[
+				2.51,
+				0,
+				3.65
+			],
+			"rotation":[
+				0.7071068,
+				0,
+				0,
+				-0.7071068
+			],
+			"scale":[
+				3,
+				3,
+				3
+			]
+		},
+		"child":[]
+	}
+}

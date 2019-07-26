@@ -1,0 +1,25 @@
+{
+	"version":"LAYAAVATAR:01",
+	"rootNode":{
+		"props":{
+			"name":"triffic",
+			"translate":[
+				-3.51,
+				0,
+				5.76
+			],
+			"rotation":[
+				0.7071068,
+				0,
+				0,
+				-0.7071068
+			],
+			"scale":[
+				8,
+				8,
+				8
+			]
+		},
+		"child":[]
+	}
+}
